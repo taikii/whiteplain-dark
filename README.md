@@ -2,7 +2,7 @@
 # Whiteplain Dark
 
 This is patch [Hugo](https://gohugo.io/) theme.
-This is a patch to change [Hugo](https://gohugo.io/) theme [Whiteplain](https://github.com/taikii/whiteplain) to dark mode.
+This is a patch to fix [Hugo] (https://gohugo.io/) theme [Whiteplain] (https://github.com/taikii/whiteplain) to dark style.
 
 ## Installation
 
@@ -22,12 +22,6 @@ This theme should be used with Whiteplain. You need to write `config.toml` as fo
 
 ```toml
 theme = ["whiteplain-dark", "whiteplain"]
-```
-
-If you are using `custom.css`, add the following line in the 1st line.
-
-```css
-@import url(./whiteplain-dark.css);
 ```
 
 Other settings depend on [Whiteplain](https://github.com/taikii/whiteplain).
